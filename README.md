@@ -1,10 +1,3 @@
-Here are the errors I found and corrected:
-
-1. **Unclosed code fence** — The Python block under step 3 was missing the closing ` ``` `
-2. **Step 4 wording** — "Server the start" → "Start the server"
-3. **Corrupted closing fence** — The final bash block ended with ` ``# Create-chatbot... ` instead of ` ``` `
-4. **Stray comment lines** — Two orphaned `#` comment lines at the end were removed
-
 Here's the corrected file:
 
 ````markdown
