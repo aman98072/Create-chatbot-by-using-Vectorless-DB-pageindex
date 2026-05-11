@@ -1,0 +1,10 @@
+# Environment variables — API keys kabhi commit mat karo
+.env
+
+# Python
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+env/
